@@ -4,25 +4,23 @@ pred_diseases:'Growth Disorder, Turner Syndrome',
 analgesics: 'Thyroid hormone pills, growth hormone injections', 
 treatment scans:'Bone Age Xray, MRI scan', 
 'Meat, Seafood,Leafygreens,Diary,Spinach, Beef'
- -------> Enter your pincode to see available doctors near by you .
 
 Wheezing, Coughing and troubled breathing,chest pain -->pred_diseases: Asthma;
 analgesics: Metered dose inhalers, nebulizers;
 treatment scans:Asthma therapy; 
 diet:Fruits and vegetables
-  -------> Enter your pincode to see available doctors near by you .
-
+ 
 baby too small, weight<5.5 pounds-->pred_diseases:  'Learning disabilities', 
 analgesics: 'iron supplements', 
 treatment scans:'Temperature Control Incubator', 
 diet:'iron supplements'
- -------> Enter your pincode to see available doctors near by you.
+
 
 Repetetive behaviour,prefers to be alone-->pred_diseases: 'Autism\r\n',
 analgesics: 'Ketamine, Midazolem', 
 treatment scans:'Teach social skills and cognitive behaviour',
  diet: 'Only yelow or white foods such as rice, potatoes or pasta and strictly avoid diary'
-  -------> Enter your pincode to see available doctors near by you.
+ 
 
 Self-destructiveness,sadness and being upset-->
 pred_diseases: 'Depression', 
@@ -46,7 +44,7 @@ pred_diseases:'Obesity',
 analgesics: 'Not suggested to take analgesics for obesity', 
 treatment scans:'building heathy eating ang drinking habits and physical activities like exercise', 
 diet: 'Fruits and vegetables, and avoid skipping breakfast'
- -------> Enter your pincode to see available doctors near by you.
+
 
 Severe tooth ache-->
 pred_diseases:'Cavities\r\n',
@@ -59,14 +57,12 @@ pred_diseases:  'Diabetes',
 analgesics: 'Tylenol or Aspirin', 
 treatment scans:'Insulin Treatment', 
 diet: 'brown rice or cereals with two eggs daily'
--------> Enter your pincode to see available doctors near by you.
 
 High body temperature, severe headache and tiredness-->
 pred_diseases: 'Fever', 
 analgesics: 'Paracetemol or Aspirin', 
 treatment scans:'Tylenol, Ibuprofen to treat stomach irritation',
 diet:  'fluid intake like gatorage, fruitjuices or milk'
--------> Enter your pincode to see available doctors near by you.
 
 Depression, Eating Disorders-->
 pred_diseases:  'Drug or Smoke or Alcohol Addiction',
@@ -91,7 +87,6 @@ pred_diseases: 'COPD',
 analgesics: 'Tudorza or Brovana', 
 treatment scans:'Inhalers and oral steroids',
 diet:  'Eggs, Cheese, Meat, fish, and Poultry'
--------> Enter your pincode to see available doctors near by you.
 
 Forgetfulness or Confusion-->
 pred_diseases: 'Alzheimer\'s disease', 
@@ -104,7 +99,6 @@ pred_diseases: 'Pneumonia or Influenza',
 analgesics: 'Levofloxacin', 
 treatment scans:'Plenty of fluids and get lot of rest', 
 diet:'Citrus fruits, Oily fish and Leafy greens'
--------> Enter your pincode to see available doctors near by you.
 
 Often urinating, slow healing of bruises, weightloss-->
 pred_diseases:  'Diabetes', 
@@ -159,7 +153,6 @@ pred_diseases:  'Sinusitis',
 analgesics: 'Acetaminophen or Nasal spray',
 treatment scans: 'Antibiotics like Aspirin and Nasal sprays', 
 diet:'Salmon, Avocados, Cherries and Beans'
--------> Enter your pincode to see available doctors near by you.
 
 Pain while urine and ejaculation-->
 pred_diseases: 'Prostate Cancer',
@@ -178,10 +171,3 @@ pred_diseases: 'Heart failure',
 analgesics: 'Carvedilol or Metoprolol',
 treatment scans: 'ACE inhibitors',
 diet: 'Plain rice, fish, egg, milk and yoghurt'.
-
-530011-->
-Name:DR. M.Satyarao,
-contactnumber:0891-2709239,
-location:"malkapuram,beside postoffice",
-timings: 6:30pm-9:30pm,
-Specialist:ENT.

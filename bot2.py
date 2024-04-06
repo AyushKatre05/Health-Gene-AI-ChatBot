@@ -9,7 +9,7 @@ import random
 import string # to process standard python strings
 
 f=open('C:/Users/ayush/OneDrive/Desktop/AI ChatBot/symptom.txt','r',errors = 'ignore')
-m=open('C:/Users/ayush/OneDrive/Desktop/AI ChatBot/symptom.txt','r',errors = 'ignore')
+m=open('C:/Users/ayush/OneDrive/Desktop/AI ChatBot/pincodes.txt','r',errors = 'ignore')
 checkpoint = "./chatbot_weights.ckpt"
 #session = tf.InteractiveSession()
 #session.run(tf.global_variables_initializer())
